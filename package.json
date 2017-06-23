@@ -1,0 +1,25 @@
+{
+  "name": "ignore-paths",
+  "version": "1.0.0",
+  "description": "ignores expressjs middleware path if match occurs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celadora/ignore-paths.git"
+  },
+  "keywords": [
+    "middleware",
+    "ignore",
+    "path",
+    "express"
+  ],
+  "author": "Robert David Rooney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Celadora/ignore-paths/issues"
+  },
+  "homepage": "https://github.com/Celadora/ignore-paths#readme"
+}
